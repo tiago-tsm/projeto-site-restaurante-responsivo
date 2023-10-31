@@ -51,7 +51,7 @@ Nosso projeto de restaurante apresenta diversas funcionalidades que o tornam uma
 
 ### 3. Formulário de Contato
 
-- **Descrição:** Os clientes podem preencher um formulário de contato para fazer reservas, fazer perguntas ou fornecer feedback. Os dados do formulário são enviados para o backend.
+- **Descrição:** Os clientes podem preencher um formulário de contato para fazer reservas, fazer perguntas ou fornecer feedback. Os dados do formulário são enviados para o backend. Formulario com validaçoes e tratamentos de erros com jQuery
 
 ### 4. Responsividade
 
