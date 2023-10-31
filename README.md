@@ -1,6 +1,6 @@
 # Sobre Projeto:
 
-O projeto do nosso restaurante é uma aplicação da web que tem como objetivo proporcionar aos nossos clientes uma experiência única ao conhecer o nosso estabelecimento e os serviços que oferecemos. 
+Apresento o meu mais recente projeto web! Desenvolvido com expertise técnica, esta aplicação demonstra tecnologias avançadas e funcionalidades inovadoras. Explore a interatividade, o design responsivo e a integração com banco de dados que tornam este projeto excepcional.
 
 [Projeto disponível](https://www.tsmdebug.com.br/restaurante/projeto3/)
 
