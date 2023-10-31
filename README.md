@@ -2,13 +2,9 @@
 
 # Sobre Projeto:
 
-Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur voluptate enim excepteur eu non sit. Mollit irure occaecat culpa occaecat est labore incididunt.
+O projeto do nosso restaurante é uma aplicação da web que tem como objetivo proporcionar aos nossos clientes uma experiência única ao conhecer o nosso estabelecimento e os serviços que oferecemos. 
 
-<img src="https://img.shields.io/github/stars/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-pr-raw/jessicamedeirosp/PROJETO-CSS?style=social">
-<img src="https://img.shields.io/github/issues-closed/jessicamedeirosp/PROJETO-CSS?style=social">
-
-[Projeto disponível](https://projetocss-jesscoder.netlify.app/)
+[Projeto disponível](https://www.tsmdebug.com.br/restaurante/projeto3/)
 
 ### Linguagens e Ferramentas
 
@@ -17,6 +13,10 @@ Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur 
 - Javascript
 - Vscode
 - Live Server
+- phpMyAdmin
+- jQuery
+- Bootstrap
+- PHP
 
 ## Layout
 
@@ -29,9 +29,9 @@ Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur 
 
 ### Mobile
 
-<img src="https://placehold.co/200x400" />
 
-[Figma do Projeto](https://figma.com/)
+
+
 
 ### Contribua com o projeto
 
@@ -41,31 +41,38 @@ Aliquip qui enim dolore velit voluptate ullamco. Pariatur excepteur consectetur 
 
 ### Fucionalidades do Projeto
 
-- [x] Funcionalidade 1
-- [x] Funcionalidade 2
-- [x] Funcionalidade 3
-- [ ] Funcionalidade 4
-- [ ] Funcionalidade 5
+Nosso projeto de restaurante apresenta diversas funcionalidades que o tornam uma ferramenta valiosa para proporcionar aos clientes uma experiência excepcional. Algumas das principais funcionalidades incluem:
+
+### 1. Carrossel de Imagens
+
+- **Descrição:** O carrossel na página inicial exibe imagens atraentes do restaurante e eventos.
+
+### 2. Cardápio Interativo
+
+- **Descrição:** O cardápio é apresentado de forma interativa, com categorias para diferentes tipos de pratos e opções detalhadas para cada item.
+
+### 3. Formulário de Contato
+
+- **Descrição:** Os clientes podem preencher um formulário de contato para fazer reservas, fazer perguntas ou fornecer feedback. Os dados do formulário são enviados para o backend.
+
+### 4. Responsividade
+
+- **Descrição:** O projeto é totalmente responsivo, adaptando-se a dispositivos de diferentes tamanhos, proporcionando uma experiência consistente.
+
+### 5. Integração com Banco de Dados
+
+- **Descrição:** Os dados do formulário de contato são processados no backend e podem ser armazenados em um banco de dados para gerenciamento de contatos de clientes.
+
+Este projeto é uma demonstração de como as tecnologias modernas podem ser aplicadas para criar uma aplicação web funcional e interativa, com destaque para a implementação de funcionalidades específicas.
+
+
 
 ### Contribuidores
 
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
-</a>
-
 ### Autor
 
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="70px" />
+<a href="https://github.com/tiago-tsm">
+<img src="https://avatars.githubusercontent.com/u/138628238?v=4" width="70px" />
 </a>
 
 [Licenca MIT License](http://creativecommons.org/licenses/by)
