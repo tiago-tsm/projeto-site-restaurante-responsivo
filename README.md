@@ -1,5 +1,3 @@
-# projeto-site-restaurante-responsivo
-
 # Sobre Projeto:
 
 O projeto do nosso restaurante é uma aplicação da web que tem como objetivo proporcionar aos nossos clientes uma experiência única ao conhecer o nosso estabelecimento e os serviços que oferecemos. 
